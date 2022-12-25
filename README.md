@@ -1,2 +1,2 @@
 # pio_template
-A template for platformio project.
+A template for platformio projects.
